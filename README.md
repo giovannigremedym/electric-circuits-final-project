@@ -1,4 +1,4 @@
-## Condicionamento de Sinais em Ecoacústica: Filtros RC Analógicos e Digitais
+# Condicionamento de Sinais em Ecoacústica: Filtros RC Analógicos e Digitais
 ---
 
 Este repositório contém os códigos-fonte desenvolvidos para o projeto final da disciplina de T10199 - Circuitos Elétricos. O objetivo principal é aplicar conceitos fundamentais de redes passivas de primeira ordem (filtros passa-baixas e passa-altas RC) no pré-processamento de dados de ecoacústica, visando atenuar ruídos abióticos e antropogênicos de gravações ambientais.
